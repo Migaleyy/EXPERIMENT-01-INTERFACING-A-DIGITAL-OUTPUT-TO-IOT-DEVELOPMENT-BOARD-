@@ -150,9 +150,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- 
+
+## LED OFF
  ![PXL_20230812_161712737](https://github.com/Migaleyy/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118262199/2e59da49-9cc5-4b91-aa49-f0f85bb68c0f)
 
+## LED ON
  ![PXL_20230812_161715512](https://github.com/Migaleyy/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118262199/c0c42eaf-6289-4771-9fb5-fc733a3edc2f)
 
  
